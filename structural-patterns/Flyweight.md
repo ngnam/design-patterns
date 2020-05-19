@@ -50,5 +50,11 @@ Cách triển khai mẫu thiết kế này thường bao gồm 5 bước sau:
     1. Chỉ nên có một instance Singleton, trong khi một class Flyweight có thể có nhiều instances với các trạng thái nội tại khác nhau.
     2. Đối tượng Singleton object có thể thay đổi (mutable). Flyweight objects thì không thay đổi (immutable)
 
+## [Example](examples/flyweight-typescript)
+Ví dụ sau mô tả cấu trúc của mẫu thiết kế Flyweight. Nó tập trung trả lời cho các câu hỏi sau:
+* Nó bao gồm những class nào?
+* Những class này đóng vai trò gì?
+* Các yếu tố của mẫu thiết kế này có liên kết với nhau?
+
 |[Quay lại](../README.md)|[Đọc tiếp]()|
 |:-----------|-----------:|
